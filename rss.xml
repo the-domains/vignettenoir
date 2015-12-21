@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[vignettenoir]]></title>
         <description><![CDATA[vignettenoir]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vignettenoir/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 20:07:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 20:08:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vignettenoir/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinede259c091-16ef-41c1-a50b-dac969c340cc/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99cf1caf-29ee-456e-b4a6-d570a49c3201.jpg">]]></description>
+            <link>https://thegrid.ai/vignettenoir/0adebe59-c786-40be-9b45-5373f6fa0c59/index.html</link>
+            <guid isPermaLink="false">0adebe59-c786-40be-9b45-5373f6fa0c59</guid>
+            <pubDate>Mon, 21 Dec 2015 20:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=6IbPL_KJhbs</p>]]></description>
+            <link>https://thegrid.ai/vignettenoir/e259c091-16ef-41c1-a50b-dac969c340cc/index.html</link>
             <guid isPermaLink="false">e259c091-16ef-41c1-a50b-dac969c340cc</guid>
             <pubDate>Mon, 21 Dec 2015 20:06:24 GMT</pubDate>
         </item>
