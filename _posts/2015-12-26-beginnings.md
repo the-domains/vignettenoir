@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Three Vignettes that happened to cross each other.
-datePublished: '2015-12-26T21:39:37.533Z'
-dateModified: '2015-12-26T21:39:15.445Z'
+datePublished: '2015-12-26T21:45:59.597Z'
+dateModified: '2015-12-26T21:45:55.417Z'
 title: Beginnings
 author: []
 sourcePath: _posts/2015-12-26-beginnings.md
@@ -18,14 +19,15 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: beginnings/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e42c4cd-fef0-43f0-8116-7a5de87b396f.jpg)
 
 The unlikely beginning of Vignette Noir starts
-with a native German from Berlin. - Two years ago, I left Berlin to live in Buffalo. I always felt that there was something that pulled me away from Berlin, it is the place I called Heimat. A German word with no English equivalent. Wikipedia suggests: "\[Heimat\] denotes the relationship of a human being toward a certain spatial social unit." Please forget about this passionless definition right away. For me the word is all about emotions. It's a feeling connected to people and place. I have written a sort of definition for my friends the other day that captures the sentiment better, I think: 'Heimat is the place we call home, the people we call home, the place where fond memories are and the feeling that comes with all that. To me it is all that which gives me a warm and fuzzy feeling deep inside.' The stories and lives that people share connect people no matter through which medium they are told. Berlin, the city I was born and grew up in,
+with a native German from Berlin. - Two years ago, I left Berlin to live in Buffalo. I always felt that there was something that pulled me away from Berlin, the place I used call Heimat. It turns the stories are what made something a home for me and luckily I could take those anywhere I wanted.
+
+Berlin, the city I was born and grew up in,
 celebrates its stories of roughness and cheap attitude towards life. The former Berlin mayor once
 said "Berlin is poor, but sexy!" (Klaus Wowereit), an image I idealized. We're
 poor but who cares, we are alive. When I came to Buffalo, I had left my Heimat behind. The first thing I did was go out and talk to people and try to connect through stories with as many people as possible. I realized this attitude was very similar to something I had learned when I left my parents' house
