@@ -1,24 +1,7 @@
-color:
-  brandStrength: 0.1311276452615857
-  saturation: 0.625
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  lightness: 0.875
-  rhythmicContrast: 0.5757727555464953
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  version: null
-  bucket: null
-  domain: null
+name: vignettenoir
 favicon: null
-layout_spectrum: 0.8443900188431144
+layout_spectrum: 1
+typography_spectrum: 0.4012
 collections:
   - index:
       navigable: true
@@ -31,10 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-name: vignettenoir
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5187393350061029
+color:
+  brandColors:
+    - '#000000'
+    - '#ffffff'
+    - '#bebebe'
+    - '#7f7f7f'
+    - '#2f2f2f'
+  brandStrength: 0.1311276452615857
+  lightness: 1
+  saturation: 0.6875
+  rhythmicContrast: 0.75
+purpose: []
