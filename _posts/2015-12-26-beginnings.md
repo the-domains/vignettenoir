@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Three Vignettes that happened to cross each other.
-datePublished: '2015-12-27T06:57:22.778Z'
-dateModified: '2015-12-27T06:57:10.335Z'
+datePublished: '2015-12-27T06:58:55.230Z'
+dateModified: '2015-12-27T06:58:48.406Z'
 title: Beginnings
 author: []
 sourcePath: _posts/2015-12-26-beginnings.md
