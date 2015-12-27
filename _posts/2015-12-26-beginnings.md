@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Three Vignettes that happened to cross each other.
-datePublished: '2015-12-27T05:10:47.460Z'
-dateModified: '2015-12-27T05:09:31.139Z'
+datePublished: '2015-12-27T06:57:22.778Z'
+dateModified: '2015-12-27T06:57:10.335Z'
 title: Beginnings
 author: []
 sourcePath: _posts/2015-12-26-beginnings.md
@@ -22,7 +22,7 @@ url: beginnings/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e42c4cd-fef0-43f0-8116-7a5de87b396f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f99e3ea-75db-470c-947e-e0746c601462.jpg)
 
 The unlikely beginning of Vignette Noir starts
 with a native German from Berlin. - Two years ago, I left Berlin to live in Buffalo. I always felt that there was something that pulled me away from Berlin, the place I used call Heimat. It turns out stories are what made something a home for me and luckily I could take those anywhere I wanted.
