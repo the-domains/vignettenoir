@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Three Vignettes that happened to cross each other.
-datePublished: '2015-12-26T21:50:44.790Z'
-dateModified: '2015-12-26T21:50:23.145Z'
+datePublished: '2015-12-27T05:10:47.460Z'
+dateModified: '2015-12-27T05:09:31.139Z'
 title: Beginnings
 author: []
 sourcePath: _posts/2015-12-26-beginnings.md
@@ -28,14 +28,10 @@ The unlikely beginning of Vignette Noir starts
 with a native German from Berlin. - Two years ago, I left Berlin to live in Buffalo. I always felt that there was something that pulled me away from Berlin, the place I used call Heimat. It turns out stories are what made something a home for me and luckily I could take those anywhere I wanted.
 
 Heimat is a German
-word with no English equivalent. Wikipedia suggests: "\[Heimat\] denotes the
-relationship of a human being toward a certain spatial social unit." Please
-forget about this passionless definition right away. For me the word is all
-about emotions. It's a feeling connected to people and place. I tried to explain the concept to my friends recently and kept the conversation in my messenger: 'Heimat is the place we call home, the
+word with no English equivalent. It's a feeling connected to people and place. I tried to explain the concept to my friends recently and kept the conversation in my messenger: 'Heimat is the place we call home, the
 people we call home, the place where fond memories are and the feeling that
 comes with all that. To me it is all that which gives me a warm and fuzzy
-feeling deep inside.' The stories and lives that people share connect people no
-matter through which medium they are told.
+feeling deep inside.' 
 
 When I was
 sixteen I hated people. I was bullied quite a bit back then and as a result I
@@ -46,11 +42,12 @@ sexy. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/225433f3-68dd
 
 The kids didn't quite agree back then. In addition to that, I wore those
 roundly shaped glasses with blue, long, rubber temples. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03e40511-747a-464b-ab29-d77ecee3cbf5.jpg)
+
 Needless to say, these deviations from the norm were perfect for kids to make fun of. So I didn't really like people. Until I
 moved to Japan for a year and everybody was interested in this strange
 foreigner and the stories he had to tell. A guy that was so different from them
 and had grown up on the other side of the world was just very interesting and
-exotic. On the other hand, I thought their stories very new and fascinating. I started to
+exotic. On the other hand, I thought their stories were new and fascinating. I started to
 take interest in people, especially those who were very different from myself. I
 just happened to listen to people's sad and happy stories. One story that stuck
 with me was a guy telling me how he split with his partner of ten years over
